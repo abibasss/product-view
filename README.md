@@ -1,23 +1,16 @@
 # Abibas Product View
 
-> Renders the product view.
+> Inspired by the Adidas product page, Abibas is a full stack ecommerce application where users can view products, read details, and search through the product reviews. The backend is written in Node.js with Express and uses a MySQL database. The frontend is created using React. 
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-
+ - https://github.com/abibasss/product-details
+ - https://github.com/abibasss/rating-review
+ 
 ## Table of Contents
 
-1. [Usage](#Usage)
 1. [Requirements](#requirements)
 1. [Development](#development)
-
-## Usage
-
-> Some usage instructions
 
 ## Requirements
 
